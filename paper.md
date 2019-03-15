@@ -1,0 +1,2 @@
+My project is concerned with creating a toolchain to allow browing the web be decently annonymous (without telecoms control, so against big corps) making use of fingerprinting avoidance tech and existing vpn services which work to containerise and randomise each communication until you hand over email etc. which will persist that IP route, UA, overall fingerprint until logout or purposeful reset.
+
